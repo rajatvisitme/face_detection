@@ -1,4 +1,4 @@
-<h1>Real-time Human face detection using OpenCV</h1>
+<h1>Real-time Human face detection using OpenCV & HaarCascade</h1>
 
 <h2>Overview</h2>
 <p>In this module we will detect human face using <b>HaarCascade Classifier</b>.<br>
